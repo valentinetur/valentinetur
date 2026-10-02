@@ -21,6 +21,7 @@ The text never scrolls: long prices are shortened smartly so one glance is enoug
 Seeed XIAO ESP32-C6, eight MAX7219 8×8 modules, USB-C, under 5 W. Crypto streams straight from the exchange over WebSocket, with automatic fallback between Coinbase, Binance and Binance.US. Stocks, indices, futures and yields come from Yahoo Finance, and polling pauses while each exchange is closed. OTA firmware updates are verified before install and roll back automatically on a failed boot.
 
 ### Links
+- [Practical LED market watchlist guide](market-symbols.md): symbols, quote types and setup steps.
 - 🛒 Shop: [turionics.com](https://turionics.com/?utm_source=github&utm_medium=profile)
 - 🪙 [Bitcoin price ticker](https://turionics.com/product/bitcoin-price-ticker-green-display-500-other-cryptocurrencies/?utm_source=github&utm_medium=profile)
 - 🔤 [Ticker symbol cheat sheet](https://turionics.com/2026/09/23/stock-ticker-symbols-for-a-desk-ticker/)
